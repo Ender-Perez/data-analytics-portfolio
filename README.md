@@ -25,7 +25,7 @@ Análisis completo de ventas anuales enfocado en:
 - Identificación de patrones de volumen vs facturación
 
 **Repositorio:**  
-https://github.com/ender-perez/sales-analysis-excel
+https://github.com/Ender-Perez/sales-analysis-excel
 
 ---
 
