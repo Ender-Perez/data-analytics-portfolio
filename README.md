@@ -28,9 +28,17 @@ Análisis completo de ventas anuales enfocado en:
 https://github.com/Ender-Perez/sales-analysis-excel
 
 ---
+### Análisis de Clientes con SQL
+Proyecto enfocado en identificar:
+- Cliente con mayor ingreso
+- Clientes en riesgo de abandono
+- Productos que impulsan la facturación
 
-*(Próximamente)*
-- Análisis de clientes con SQL  
+**Repositorio:**  
+https://github.com/Ender-Perez/analisis-ecommerce-sql
+
+---
+*(Próximamente)*  
 - Limpieza y transformación de datos con Python
 
 ---
